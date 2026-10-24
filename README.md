@@ -1,10 +1,8 @@
 # Mark Lester Peralta
 
-**Self-taught dev · CS student · Philippines**
+**Self-taught · Student · Philippines**
 
-I learn by building. Currently on the OSSU Core CS path, writing systems that are
-more than they look — a hospital queue system in Java, a Flutter patient app,
-a vet clinic booking system. Right now I'm learning **Rust**.
+Currently Learning: Rust and Backend Development
 
 [![GitHub](https://img.shields.io/badge/moark--peralta--study--repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/moark-peralta-study-repo)
 
@@ -44,35 +42,3 @@ a vet clinic booking system. Right now I'm learning **Rust**.
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 </p>
-
----
-
-### What I've built
-
-#### Queuing system — hospital, Java + Flutter + SQLite
-Priority queue for waitlists, patient self check-in, staff console, and the
-waiting-room display. Data structures coursework, taken further than the brief.
-
-#### Vet clinic booking system — MERN
-End-to-end appointment flow: clients book and manage pets, staff approve and
-schedule, admin holds the keys.
-
-#### The Wild Oasis — React, Next.js, Supabase
-Full-stack hotel site with server render, plus the internal admin dashboard.
-
-#### mini-jira-project — TypeScript
-Tickets, boards, drag-and-drop, all typed end to end.
-
-#### dotfiles / nvim-lappy
-My Arch + Hyprland + Neovim setup, version-controlled so it can follow me
-anywhere.
-
----
-
-<div align="center">
-
-</div>
-
----
-
-<sub>Teaching myself the fundamentals, one commit at a time.</sub>
