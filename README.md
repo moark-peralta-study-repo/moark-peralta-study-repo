@@ -24,6 +24,8 @@ Currently Learning: Rust and Backend Development
 
 </div>
 
+---
+
 **Frameworks & Libraries**
 
 <div align="center">
@@ -35,6 +37,8 @@ Currently Learning: Rust and Backend Development
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
 </div>
+
+---
 
 **Tools & Environment**
 
